@@ -1,0 +1,18 @@
+# Dossiers d'environnement virtuel :
+venv/
+.venv/
+env/
+
+# Fichiers cache de Python :
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration IDE (VS Code)
+.vscode/
+.idea/
+
+# Fichiers de système d'exploitation (macOS, Windows) :
+.DS_Store
+Thumbs.db
